@@ -1,3 +1,3 @@
 # kodluyoruz-sorting-odev
 
-[Kodluyoruz Eğitimleri için]('https://app.patika.dev/referral/yunusugdul')
+[Kodluyoruz Eğitimleri için](https://app.patika.dev/referral/yunusugdul)
