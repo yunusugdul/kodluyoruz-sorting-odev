@@ -1,0 +1,5 @@
+proje 3 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız. Binary Search Tree için root'u 7 olarak belirledim 
+
+bu durumda sol tarafta
+5, 1, 3, 2, 0, 4 
+sağ tarafta ise 8, 6, 9 olur 
